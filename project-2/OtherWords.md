@@ -1,0 +1,6 @@
+## Other Words
+AAAAAA
+CCTACA
+GAGAGA
+TTTTAATT
+
