@@ -12,3 +12,7 @@ For this project, you will continue working with the 30 cent drink machine finit
 
 - On the first two lines you should write one word per line, where each word would be *accepted* by the 30 cent drink machine.
 - On the next (last two) lines, you should write one word per line, where each word would NOT be accepted by the 30 cent drink machine.
+
+### Machine Implementation
+This finite state machine simulator website, on the Input automaton tab, allows for a description of a finite state machine to be input. After being given a valid description, a machine can be visualized and words can be tested with the machine to see if each word is accepted by the machine.
+**WORK TASK**: Add to the machine description, in the #transitions section, additional transitions that are needed to complete the machine. You should be adding five transitions.
