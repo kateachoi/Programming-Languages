@@ -6,3 +6,5 @@
 
 ## Work
 The alphabet for the machine is the four symbol set {A, C, G, T} (the DNA alphabet). The language your finite state machine should recognize is described as words that have the following structure:
+- CGG with an optional A on the front and an optional A on the back (so, CGG, ACGG,CGGA, and ACGGA).
+- T followed by two or more instances of AT (so, TATAT, TATATAT, TATATATAT, ...).
